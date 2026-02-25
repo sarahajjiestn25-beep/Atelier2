@@ -54,13 +54,14 @@ Each file corresponds to one exercise from the workshop.
 ## 🛠️ Technologies Used
 
 - PHP
-- Local server (XAMPP or WAMP)
+- Local server (XAMPP)
+- vs code
 
 ---
 
 ## 👩‍🎓 Author
 
-**Name:** Sara Hajji  AND Hanane EL OUASRAOUI
+**Name:** Sara Hajji  AND Hanane EL OUASRAOUI <br>
 **Field:** Software Engineering & Cybersecurity (ILCS)  
 **Academic Year:** 2024–2025  
 
