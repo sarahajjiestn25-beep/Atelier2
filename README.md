@@ -61,7 +61,7 @@ Each file corresponds to one exercise from the workshop.
 
 ## 👩‍🎓 Author
 
-**Name:** Sara Hajji  AND Hanane EL OUASRAOUI <br>
+**Name:** Sara Hajji  AND Hanane EL AASRAOUI <br>
 **Field:** Software Engineering & Cybersecurity (ILCS)  
 **Academic Year:** 2024–2025  
 
